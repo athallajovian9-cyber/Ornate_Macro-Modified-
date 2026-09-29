@@ -1,5 +1,19 @@
 # Orenate Macro — bug report & fixes (Prospecting)
 
+## This repository
+
+| | |
+|---|---|
+| **Download the build** | [OrnateMacroV1.4.8-mod.zip](OrnateMacroV1.4.8-mod.zip) or the [release](../../releases/latest) |
+| **What was changed** | [MODIFICATIONS.md](MODIFICATIONS.md) - every edit, the before/after, and what was deliberately left alone |
+| **Before you run it** | [REQUIREMENTS.md](REQUIREMENTS.md) - the display, camera and launcher settings that decide whether it works at all |
+| **Testing it** | [TESTING.md](TESTING.md) - what to run and what to report back |
+
+> This is a **modified copy** of Orenate Macro v1.4.8, changed locally. It is not an official Orenate release. Get the macro from its authors for updates.
+
+---
+
+
 Independent bug report for **Orenate Macro v1.4.8**, the AutoHotkey v1.1 macro for the
 Roblox game *Prospecting*.
 
